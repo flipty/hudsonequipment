@@ -1,0 +1,71 @@
+0000.001 () Opened log file at time: Tue, 29 May 2018 03:35:42 +0000 on http://hudsonequipment.com
+0000.001 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.11 WP: 4.9.6 PHP: 7.0.30 (cgi-fcgi, Linux cp10.belayhost.com 2.6.32-673.26.1.lve1.4.22.el6.x86_64 #1 SMP Fri Feb 24 08:35:09 EST 2017 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 39.4M | 42M) multisite: N openssl: OpenSSL 1.0.2o  27 Mar 2018 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.086 () Free space on disk containing Updraft's temporary directory: 647630.3 MB
+0000.087 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.105 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.107 () Entity: db
+0000.107 () restore_backup(backup_file=backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz, type=db, info=a:0:{}, last_one=)
+0000.107 () Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz, 0.4 Mb)
+0000.108 () Database successfully unpacked
+0000.108 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.109 () Using direct MySQL access; value of use_mysqli is: 1
+0000.180 () Max packet size: 256 MB
+0000.180 () Entering maintenance mode
+0000.180 () Enabling Maintenance mode&#8230;
+0000.181 () Backup of: http://hudsonequipment.com
+0000.182 () Content URL: http://hudsonequipment.com/wp-content
+0000.182 () Uploads URL: http://hudsonequipment.com/wp-content/uploads
+0000.182 () Old table prefix: wp_
+0000.182 () Site information: multisite=0
+0000.183 () New table prefix: wp_
+0000.198 () Processing table (MyISAM): wp_options
+0000.304 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.370 () Processing table (MyISAM): wp_users
+0000.404 () Processing table (MyISAM): wp_usermeta
+0000.450 () Processing table (MyISAM): wp_commentmeta
+0000.478 () Processing table (MyISAM): wp_comments
+0000.516 () Processing table (MyISAM): wp_links
+0000.574 () Processing table (MyISAM): wp_postmeta
+0001.021 () Processing table (MyISAM): wp_posts
+0001.247 () Processing table (MyISAM): wp_term_relationships
+0001.297 () Processing table (MyISAM): wp_term_taxonomy
+0001.321 () Processing table (MyISAM): wp_termmeta
+0001.344 () Processing table (MyISAM): wp_terms
+0001.437 () Unlocking database and leaving maintenance mode
+0001.437 () Disabling Maintenance mode&#8230;
+0001.437 () Finished: lines processed: 46 in 1.31 seconds
+0001.437 () Cleaning up rubbish...
+0001.446 () Entity: plugins
+0001.447 () restore_backup(backup_file=backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:52:"/home/hudsonequipment/public_html/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0001.447 () Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip, 12.3 Mb)
+0036.624 () Moving old data: filesystem method / updraft_dir is potentially possible
+0036.624 () Moving old data: can potentially use wp_filesystem method / -old
+0036.624 () Moving old data out of the way...
+0036.736 () Top-level entities being moved: contact-form-7, x-google-analytics, flamingo, x-content-dock, cornerstone, wordpress-importer, simple-301-redirects, wordpress-seo, index.php, updraftplus
+0036.738 () Moving unpacked backup into place...
+0036.832 () Top-level entities being moved: contact-form-7, x-google-analytics, flamingo, x-content-dock, cornerstone, wordpress-importer, simple-301-redirects, wordpress-seo, index.php, updraftplus
+0036.833 () Cleaning up rubbish...
+0036.835 () Entity: themes
+0036.835 () restore_backup(backup_file=backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip, type=themes, info=a:2:{s:4:"path";s:51:"/home/hudsonequipment/public_html/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0036.835 () Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip, 5.1 Mb)
+0048.199 () Moving old data: filesystem method / updraft_dir is potentially possible
+0048.199 () Moving old data: can potentially use wp_filesystem method / -old
+0048.199 () Moving old data out of the way...
+0048.223 () Top-level entities being moved: x, x-child, index.php
+0048.224 () Moving unpacked backup into place...
+0048.266 () Top-level entities being moved: x, x-child, index.php
+0048.266 () Cleaning up rubbish...
+0048.268 () Entity: uploads
+0048.268 () restore_backup(backup_file=backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:52:"/home/hudsonequipment/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0048.268 () Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip, 7.6 Mb)
+0055.742 () Moving old data: filesystem method / updraft_dir is potentially possible
+0055.742 () Moving old data: can potentially use wp_filesystem method / -old
+0055.742 () Moving old data out of the way...
+0055.751 () Moving unpacked backup into place...
+0055.759 () Cleaning up rubbish...
+0055.761 () Entity: others
+0055.761 () restore_backup(backup_file=backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip, type=others, info=a:2:{s:4:"path";s:44:"/home/hudsonequipment/public_html/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0055.761 () Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip, 0 Mb)
+0055.762 () Cleaning up rubbish...
+0055.797 () Restore successful!
+0055.797 () Restore successful

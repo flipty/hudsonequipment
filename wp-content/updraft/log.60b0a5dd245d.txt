@@ -1,0 +1,189 @@
+0000.000 (0) Opened log file at time: Tue, 29 May 2018 03:11:58 +0000 on http://hudsonequipment.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.6 PHP: 7.0.30 (cgi-fcgi, Linux cp10.belayhost.com 2.6.32-673.26.1.lve1.4.22.el6.x86_64 #1 SMP Fri Feb 24 08:35:09 EST 2017 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28.6M | 30M) multisite: N openssl: OpenSSL 1.0.2o  27 Mar 2018 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.081 (0) Free space on disk containing Updraft's temporary directory: 647720.3 MB
+0000.084 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.085 (0) Semaphore (fd, wp_options) being initialised
+0000.097 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.098 (0) Set semaphore last lock (fd) time to 2018-05-29 03:11:58
+0000.099 (0) Semaphore lock (fd) complete
+0000.102 (0) Backup run: resumption=0, nonce=60b0a5dd245d, begun at=1527563518 (0s ago), job type=backup
+0000.103 (0) Scheduling a resumption (1) after 300 seconds (1527563818) in case this run gets aborted
+0000.222 (0) Checking if we have a zip executable available
+0000.223 (0) Testing: /usr/bin/zip
+0000.230 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.231 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.232 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.232 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.233 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.239 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.241 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.250 (0) Working binary zip found: /usr/bin/zip
+0000.251 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.251 (0) Creation of backups of directories: beginning
+0000.253 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.550 (0) Total entities for the zip file: 398 directories, 2320 files (0 skipped as non-modified), 39.1 MB
+0001.555 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.560 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.564 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.568 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.572 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.572 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.2 MB, 2320 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0005.904 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: size is now: 1.00 MB
+0005.908 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 600 files added (on-disk size: 1034.5 KB)
+0005.913 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 700 files added (on-disk size: 1034.5 KB)
+0005.917 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 800 files added (on-disk size: 1034.5 KB)
+0005.922 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 900 files added (on-disk size: 1034.5 KB)
+0005.926 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1000 files added (on-disk size: 1034.5 KB)
+0005.927 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.1 MB, 2320 files batched, 501 (1002) added so far); re-opening (prior size: 1034.5 KB)
+0020.990 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: size is now: 4.60 MB
+0020.996 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1100 files added (on-disk size: 4693.2 KB)
+0020.999 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1200 files added (on-disk size: 4693.2 KB)
+0021.003 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1300 files added (on-disk size: 4693.2 KB)
+0021.006 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1400 files added (on-disk size: 4693.2 KB)
+0021.010 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1500 files added (on-disk size: 4693.2 KB)
+0021.010 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (18.8 MB, 2320 files batched, 501 (1503) added so far); re-opening (prior size: 4693.2 KB)
+0045.762 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: size is now: 11.00 MB
+0045.767 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1600 files added (on-disk size: 11294.6 KB)
+0045.771 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1700 files added (on-disk size: 11294.6 KB)
+0045.775 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1800 files added (on-disk size: 11294.6 KB)
+0045.779 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 1900 files added (on-disk size: 11294.6 KB)
+0045.782 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 2000 files added (on-disk size: 11294.6 KB)
+0045.783 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.1 MB, 2320 files batched, 501 (2004) added so far); re-opening (prior size: 11294.6 KB)
+0060.360 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 2100 files added (on-disk size: 12214.4 KB)
+0060.365 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 2200 files added (on-disk size: 12214.4 KB)
+0060.370 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip.tmp: 2300 files added (on-disk size: 12214.4 KB)
+0074.708 (0) Created plugins zip (0) - 12593.6 KB in 74.4 s (169.3 KB/s) (sha1: 0bddcf5e1477273f7e9d50d7b37a52d5777689f4, sha256: 692dbee821cccdeefef869358ceb55a26d96c8398b4e4db4c53f6b5a937dbf8d)
+0074.710 (0) Beginning creation of dump of themes (split every: 400 MB)
+0075.008 (0) Total entities for the zip file: 191 directories, 1024 files (0 skipped as non-modified), 9.7 MB
+0075.013 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0075.018 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0075.022 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0075.027 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0075.031 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0075.032 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 1024 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0082.462 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: size is now: 0.80 MB
+0082.467 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 600 files added (on-disk size: 823.4 KB)
+0082.471 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 700 files added (on-disk size: 823.4 KB)
+0082.474 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 800 files added (on-disk size: 823.4 KB)
+0082.478 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 900 files added (on-disk size: 823.4 KB)
+0082.482 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: 1000 files added (on-disk size: 823.4 KB)
+0082.482 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.2 MB, 1024 files batched, 501 (1002) added so far); re-opening (prior size: 823.4 KB)
+0090.122 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip.tmp: size is now: 4.60 MB
+0096.006 (0) Created themes zip (0) - 5263.1 KB in 21.2 s (248.1 KB/s) (sha1: 48bd9f05512d5b53df02cf42e173d8c3e7caf9a6, sha256: 58a70e1c6fff6d2eb3d59e6ceb9c676db931168695238700c653aa09e2e2e499)
+0096.009 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0096.009 (0) Looking for candidates to back up in: /home/hudsonequipment/public_html/wp-content/uploads
+0096.010 (0) finding files: 2018: adding to list (1)
+0096.010 (0) finding files: 2017: adding to list (2)
+0096.011 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0096.104 (0) Total entities for the zip file: 5 directories, 247 files (0 skipped as non-modified), 7.5 MB
+0096.108 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0096.112 (0) Zip: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0100.209 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip.tmp: size is now: 7.60 MB
+0100.362 (0) Created uploads zip (0) - 7740.9 KB in 4.3 s (1811.8 KB/s) (sha1: c6335bcb869291d6e6b58f8f9823df0ca4453dd3, sha256: 4ed191555e934e4567fed40b486cd680dc40de49316835d71c5eda3c4bc2724e)
+0100.364 (0) Beginning backup of other directories found in the content directory (index: 0)
+0100.364 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0100.365 (0) Looking for candidates to back up in: /home/hudsonequipment/public_html/wp-content
+0100.366 (0) finding files: updraft: skipping: this is the updraft directory
+0100.366 (0) finding files: upgrade: skipping: excluded by options
+0100.367 (0) finding files: themes: skipping: this is the themes directory
+0100.367 (0) finding files: plugins: skipping: this is the plugins directory
+0100.368 (0) finding files: index.php: adding to list (1)
+0100.368 (0) finding files: uploads: skipping: this is the uploads directory
+0100.449 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0100.457 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip.tmp: size is now: 0.00 MB
+0100.460 (0) Created others zip (0) - 0.2 KB in 0 s (14.5 KB/s) (sha1: 568efe44843211cb44d6faa069370431e54050cd, sha256: 0c045ec55edd48b2d165b08ff104444061e8c41f85e15221156030bfd5fdb09a)
+0100.464 (0) Saving backup status to database (elements: 8)
+0100.466 (0) Beginning creation of database dump (WordPress DB)
+0100.472 (0) Testing: /usr/bin/mysqldump
+0100.534 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1211 bytes total)
+0100.537 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0100.551 (0) Table wp_options: Total expected rows (approximate): 504
+0100.625 (0) Table wp_options: Total rows added: 500 in 0.07 seconds
+0100.627 (0) Table wp_options: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_options.table.gz - 216.4 KB)
+0100.629 (0) Table wp_users: Total expected rows (approximate): 2
+0100.631 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0100.632 (0) Table wp_users: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_users.table.gz - 0.7 KB)
+0100.634 (0) Table wp_usermeta: Total expected rows (approximate): 46
+0100.636 (0) Table wp_usermeta: Total rows added: 46 in 0.00 seconds
+0100.637 (0) Table wp_usermeta: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_usermeta.table.gz - 2.3 KB)
+0100.639 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0100.641 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0100.641 (0) Table wp_commentmeta: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0100.644 (0) Table wp_comments: Total expected rows (approximate): 0
+0100.645 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0100.646 (0) Table wp_comments: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_comments.table.gz - 0.5 KB)
+0100.649 (0) Table wp_links: Total expected rows (approximate): 0
+0100.650 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0100.651 (0) Table wp_links: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_links.table.gz - 0.4 KB)
+0100.653 (0) Table wp_postmeta: Total expected rows (approximate): 2328
+0100.837 (0) Table wp_postmeta: Total rows added: 2328 in 0.18 seconds
+0100.838 (0) Table wp_postmeta: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_postmeta.table.gz - 153 KB)
+0100.841 (0) Table wp_posts: Total expected rows (approximate): 296
+0100.907 (0) Table wp_posts: Total rows added: 296 in 0.07 seconds
+0100.909 (0) Table wp_posts: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_posts.table.gz - 80.7 KB)
+0100.911 (0) Table wp_term_relationships: Total expected rows (approximate): 111
+0100.913 (0) Table wp_term_relationships: Total rows added: 111 in 0.00 seconds
+0100.914 (0) Table wp_term_relationships: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0100.916 (0) Table wp_term_taxonomy: Total expected rows (approximate): 8
+0100.918 (0) Table wp_term_taxonomy: Total rows added: 8 in 0.00 seconds
+0100.919 (0) Table wp_term_taxonomy: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0100.921 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0100.923 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0100.923 (0) Table wp_termmeta: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_termmeta.table.gz - 0.4 KB)
+0100.926 (0) Table wp_terms: Total expected rows (approximate): 8
+0100.927 (0) Table wp_terms: Total rows added: 8 in 0.00 seconds
+0100.928 (0) Table wp_terms: finishing file (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_terms.table.gz - 0.6 KB)
+0100.930 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_options.table.gz (1/12): adding to final database dump
+0100.998 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_users.table.gz (2/12): adding to final database dump
+0100.999 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0101.000 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0101.001 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0101.002 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_links.table.gz (6/12): adding to final database dump
+0101.002 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0101.064 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0101.093 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0101.094 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0101.095 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0101.095 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0101.096 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz: finished writing out complete database file (416 KB)
+0101.109 (0) Total database tables backed up: 12 (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz, size: 464926, sha256)
+0101.112 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0101.113 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0101.113 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0101.114 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip: others: This file has not yet been successfully uploaded: will queue
+0101.114 (0) backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0101.115 (0) Saving backup history. Total backup size: 25.4 MB
+0101.116 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0101.118 (0) Cloud backup selection (1/1): none (last)
+0101.118 (0) No remote despatch: user chose no remote backup service
+0101.120 (0) Recording as successfully uploaded: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip (9c9c5d424ec0d6e0debbc16b6fdfb9f9)
+0101.123 (0) Recording as successfully uploaded: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip (c873c8ce4381dae1508c0e9af00df445)
+0101.126 (0) Recording as successfully uploaded: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip (91b5eb43d733d1cae5a415939a19d4ab)
+0101.129 (0) Recording as successfully uploaded: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip (de58fda5dbc6e1967e5ea0fd059c0c8f)
+0101.132 (0) Recording as successfully uploaded: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz (08dc798b199ed26492a27b3de6f18d3b)
+0101.136 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0101.136 (0) Number of backup sets in history: 1; groups (db): 1
+0101.137 (0) Examining (for databases) backup set with group_id=0, nonce=60b0a5dd245d, datestamp=1527563518 (May 29 2018 03:11:58)
+0101.137 (0) This backup set is the backup set just made, so will not be deleted.
+0101.138 (0) Number of backup sets in history: 1; groups (files): 1
+0101.138 (0) Examining (for files) backup set with nonce=60b0a5dd245d, datestamp=1527563518 (May 29 2018 03:11:58)
+0101.139 (0) This backup set is the backup set just made, so will not be deleted.
+0101.139 (0) This backup set is the backup set just made, so will not be deleted.
+0101.139 (0) This backup set is the backup set just made, so will not be deleted.
+0101.139 (0) This backup set is the backup set just made, so will not be deleted.
+0101.140 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0101.140 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0101.142 (0) Resume backup (60b0a5dd245d, 0): finish run
+0101.143 (0) Decremented the semaphore (fd) by 1
+0101.144 (0) Semaphore (fd) unlocked
+0101.144 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0101.146 (0) No email will/can be sent - the user has not configured an email address.
+0101.147 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Tue, 29 May 2018 03:36:39 +0000 on http://hudsonequipment.com
+0000.002 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.9.6 PHP: 7.0.30 (cgi-fcgi, Linux cp10.belayhost.com 2.6.32-673.26.1.lve1.4.22.el6.x86_64 #1 SMP Fri Feb 24 08:35:09 EST 2017 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.9M | 26M) multisite: N openssl: OpenSSL 1.0.2o  27 Mar 2018 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.082 (1) Free space on disk containing Updraft's temporary directory: 647552.2 MB
+0000.083 (1) This backup task (60b0a5dd245d) is either complete or began over 2 days ago: ending (1527564999.1202, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Tue, 29 May 2018 03:37:44 +0000 on http://hudsonequipment.com
+0000.001 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.9.6 PHP: 7.0.30 (cgi-fcgi, Linux cp10.belayhost.com 2.6.32-673.26.1.lve1.4.22.el6.x86_64 #1 SMP Fri Feb 24 08:35:09 EST 2017 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.9M | 26M) multisite: N openssl: OpenSSL 1.0.2o  27 Mar 2018 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.092 (1) Free space on disk containing Updraft's temporary directory: 647556.2 MB
+0000.093 (1) This backup task (60b0a5dd245d) is either complete or began over 2 days ago: ending (1527565064.0103, ) (existing jobdata keys: )

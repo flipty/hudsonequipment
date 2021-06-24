@@ -1,0 +1,50 @@
+0000.103 (R) [notice] Looking for db archive: file name: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz
+0000.103 (R) [notice] Archive is expected to be size: 454 KB: OK
+0000.103 (R) [notice] Looking for plugins archive: file name: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip
+0000.103 (R) [notice] Archive is expected to be size: 12593.6 KB: OK
+0000.104 (R) [notice] Looking for themes archive: file name: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip
+0000.104 (R) [notice] Archive is expected to be size: 5263.1 KB: OK
+0000.104 (R) [notice] Looking for uploads archive: file name: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip
+0000.104 (R) [notice] Archive is expected to be size: 7740.9 KB: OK
+0000.104 (R) [notice] Looking for others archive: file name: backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip
+0000.104 (R) [notice] Archive is expected to be size: 0.2 KB: OK
+0000.105 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.107 (R) [notice] Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-db.gz, 0.4 Mb)
+0000.108 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.180 (R) [notice] Enabling Maintenance mode&#8230;
+0000.181 (R) [notice] Backup of: http://hudsonequipment.com
+0000.182 (R) [notice] Content URL: http://hudsonequipment.com/wp-content
+0000.182 (R) [notice] Uploads URL: http://hudsonequipment.com/wp-content/uploads
+0000.182 (R) [notice] Old table prefix: wp_
+0000.182 (R) [notice] Site information: multisite = 0
+0000.183 (R) [notice] New table prefix: wp_
+0000.198 (R) [notice] Processing table (MyISAM):  wp_options
+0000.370 (R) [notice] Processing table (MyISAM):  wp_users
+0000.404 (R) [notice] Processing table (MyISAM):  wp_usermeta
+0000.450 (R) [notice] Processing table (MyISAM):  wp_commentmeta
+0000.478 (R) [notice] Processing table (MyISAM):  wp_comments
+0000.516 (R) [notice] Processing table (MyISAM):  wp_links
+0000.574 (R) [notice] Processing table (MyISAM):  wp_postmeta
+0001.021 (R) [notice] Processing table (MyISAM):  wp_posts
+0001.247 (R) [notice] Processing table (MyISAM):  wp_term_relationships
+0001.297 (R) [notice] Processing table (MyISAM):  wp_term_taxonomy
+0001.321 (R) [notice] Processing table (MyISAM):  wp_termmeta
+0001.344 (R) [notice] Processing table (MyISAM):  wp_terms
+0001.437 (R) [notice] Disabling Maintenance mode&#8230;
+0001.437 (R) [notice] Finished: lines processed: 46 in 1.31 seconds
+0001.437 (R) [notice] Cleaning up rubbish...
+0001.447 (R) [notice] Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-plugins.zip, 12.3 Mb)
+0036.624 (R) [notice] Moving old data out of the way...
+0036.738 (R) [notice] Moving unpacked backup into place...
+0036.833 (R) [notice] Cleaning up rubbish...
+0036.835 (R) [notice] Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-themes.zip, 5.1 Mb)
+0048.199 (R) [notice] Moving old data out of the way...
+0048.224 (R) [notice] Moving unpacked backup into place...
+0048.267 (R) [notice] Cleaning up rubbish...
+0048.268 (R) [notice] Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-uploads.zip, 7.6 Mb)
+0055.742 (R) [notice] Moving old data out of the way...
+0055.751 (R) [notice] Moving unpacked backup into place...
+0055.759 (R) [notice] Cleaning up rubbish...
+0055.761 (R) [notice] Unpacking backup... (backup_2018-05-28-2311_Hudson_Equipment_60b0a5dd245d-others.zip, 0 Mb)
+0055.762 (R) [notice] Cleaning up rubbish...
+0055.797 (R) [notice] Restore successful!

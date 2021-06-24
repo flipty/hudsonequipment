@@ -1,0 +1,8 @@
+[11-Feb-2018 22:47:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/hudsonequipment/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[11-Feb-2018 22:47:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/hudsonequipment/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/theme-compat/embed-content.php on line 13

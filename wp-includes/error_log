@@ -1,0 +1,110 @@
+[21-Oct-2017 21:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/registration-functions.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/registration-functions.php on line 7
+[27-Nov-2017 06:20:13 UTC] PHP Fatal error:  Class 'Walker' not found in /home/hudsonequipment/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[29-Dec-2017 12:42:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/session.php on line 8
+[19-Jan-2018 21:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/locale.php on line 10
+[14-Mar-2018 19:02:49 UTC] PHP Fatal error:  Class 'Walker' not found in /home/hudsonequipment/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[23-Mar-2018 04:40:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/locale.php on line 10
+[20-Nov-2018 00:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/hudsonequipment/public_html/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/template-loader.php on line 28
+[14-Dec-2018 08:50:53 UTC] PHP Fatal error:  Class 'Walker' not found in /home/hudsonequipment/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[01-Feb-2019 04:25:45 UTC] PHP Fatal error:  Class 'Walker' not found in /home/hudsonequipment/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Feb-2019 09:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/locale.php on line 10
+[09-Dec-2019 04:00:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/rss-functions.php on line 8
+[19-Apr-2020 21:22:08 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[19-Apr-2020 21:22:08 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[27-Apr-2020 15:49:02 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[27-Apr-2020 15:49:02 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 21:55:23 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 21:55:23 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 21:55:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 21:55:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 21:55:27 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[20-Jul-2020 21:55:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[30-Jul-2020 14:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/hudsonequipment/public_html/wp-includes/update.php:739
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/update.php on line 739
+[30-Jul-2020 14:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/hudsonequipment/public_html/wp-includes/update.php:739
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/update.php on line 739
+[31-Jul-2020 02:30:46 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/hudsonequipment/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 09:25:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 09:25:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 09:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 12:13:08 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/hudsonequipment/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 12:13:12 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/hudsonequipment/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[07-Aug-2020 03:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/locale.php on line 10
+[07-Aug-2020 13:28:53 UTC] PHP Fatal error:  Class 'Walker' not found in /home/hudsonequipment/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[02-Sep-2020 22:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/hudsonequipment/public_html/wp-includes/update.php:739
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/update.php on line 739
+[02-Sep-2020 22:08:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/hudsonequipment/public_html/wp-includes/update.php:739
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/update.php on line 739
+[03-Sep-2020 17:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 17:40:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 18:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 18:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 19:29:21 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/hudsonequipment/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Sep-2020 19:29:22 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/hudsonequipment/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Dec-2020 22:52:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[29-Dec-2020 22:52:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 08:48:39 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[08-Mar-2021 08:48:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[09-Mar-2021 04:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/rss-functions.php on line 8
+[18-Mar-2021 13:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/hudsonequipment/public_html/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hudsonequipment/public_html/wp-includes/rss-functions.php on line 8
+[23-Jun-2021 01:26:10 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
+[23-Jun-2021 01:26:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/hudsonequipment/public_html/wp-includes/functions.php on line 8
